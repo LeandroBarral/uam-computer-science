@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605451524 source:d:\projects\uam-computer-science\bloco2\tecnicas-de-programacao\u2a4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<locale.h>
+
